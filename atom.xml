@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>微吉安博客</title>
+  
+  <subtitle>天下事有难易乎？为之，则难者亦易矣；不为，则易者亦难矣。</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://swjian1997.github.io/"/>
+  <updated>2018-01-01T16:05:29.237Z</updated>
+  <id>http://swjian1997.github.io/</id>
+  
+  <author>
+    <name>微吉安</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>在帝都都快一年了</title>
+    <link href="http://swjian1997.github.io/2018/01/01/life-201801010001/"/>
+    <id>http://swjian1997.github.io/2018/01/01/life-201801010001/</id>
+    <published>2018-01-01T15:24:00.000Z</published>
+    <updated>2018-01-01T16:05:29.237Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/2018/01/01/life-201801010001/sanlitun.webp" title="北京三里屯"><p>到了北京真忙<br>我看人<br>人看我<br>几个转身就把白天磨成了夜</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;img src=&quot;/2018/01/01/life-201801010001/sanlitun.webp&quot; title=&quot;北京三里屯&quot;&gt;
+&lt;p&gt;到了北京真忙&lt;br&gt;我看人&lt;br&gt;人看我&lt;br&gt;几个转身就把白天磨成了夜&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="生活" scheme="http://swjian1997.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="生活" scheme="http://swjian1997.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2018年的第一天,也是搭建成功的第一天~</title>
+    <link href="http://swjian1997.github.io/2018/01/01/other-201801010001/"/>
+    <id>http://swjian1997.github.io/2018/01/01/other-201801010001/</id>
+    <published>2018-01-01T15:24:00.000Z</published>
+    <updated>2018-01-01T16:06:18.053Z</updated>
+    
+    <content type="html"><![CDATA[<p>祝大家新年快乐，嘿嘿嘿！~<br><img src="/2018/01/01/other-201801010001/1.webp" title="这是一个新的博客的图片的说明"></p><p>虽然人生总不圆满<br>但那些能够完成的愿望<br>就是我的方向</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;祝大家新年快乐，嘿嘿嘿！~&lt;br&gt;&lt;img src=&quot;/2018/01/01/other-201801010001/1.webp&quot; title=&quot;这是一个新的博客的图片的说明&quot;&gt;&lt;/p&gt;
+&lt;p&gt;虽然人生总不圆满&lt;br&gt;但那些能够完成的愿望&lt;br&gt;就是我的方向&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="生活" scheme="http://swjian1997.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="生活" scheme="http://swjian1997.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+</feed>
