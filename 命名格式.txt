@@ -1,0 +1,9 @@
+首页：home
+标签：tags
+技术：technology
+生活：life
+旅行：travel
+音乐：music
+留言：footprint
+关于：about
+搜索：search
