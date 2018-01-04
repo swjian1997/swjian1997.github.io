@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://swjian1997.github.io/"/>
-  <updated>2018-01-02T15:03:20.421Z</updated>
+  <updated>2018-01-04T15:21:32.232Z</updated>
   <id>http://swjian1997.github.io/</id>
   
   <author>
@@ -17,33 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>在帝都都快一年了</title>
-    <link href="http://swjian1997.github.io/2018/01/01/life20180101/"/>
-    <id>http://swjian1997.github.io/2018/01/01/life20180101/</id>
-    <published>2018-01-01T15:24:00.000Z</published>
-    <updated>2018-01-02T15:03:20.421Z</updated>
-    
-    <content type="html"><![CDATA[<img src="/2018/01/01/life20180101/sanlitun.webp"><a id="more"></a><p>到了北京真忙<br>我看人<br>人看我<br>几个转身就把白天磨成了夜</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;img src=&quot;/2018/01/01/life20180101/sanlitun.webp&quot;&gt;
-    
-    </summary>
-    
-      <category term="生活" scheme="http://swjian1997.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
-    
-    
-      <category term="生活" scheme="http://swjian1997.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
-    
-  </entry>
-  
-  <entry>
     <title>2018年的第一天,也是搭建成功的第一天,新年快乐，嘿嘿嘿！~</title>
     <link href="http://swjian1997.github.io/2018/01/01/life20180102/"/>
     <id>http://swjian1997.github.io/2018/01/01/life20180102/</id>
     <published>2018-01-01T15:24:00.000Z</published>
-    <updated>2018-01-02T15:03:17.373Z</updated>
+    <updated>2018-01-04T15:21:32.232Z</updated>
     
     <content type="html"><![CDATA[<img src="/2018/01/01/life20180102/1.webp"><a id="more"></a><p>虽然人生总不圆满<br>但那些能够完成的愿望<br>就是我的方向</p>]]></content>
     
@@ -53,10 +31,28 @@
     
     </summary>
     
-      <category term="生活" scheme="http://swjian1997.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+      <category term="life" scheme="http://swjian1997.github.io/tags/life/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>在帝都都快一年了</title>
+    <link href="http://swjian1997.github.io/2018/01/01/life20180101/"/>
+    <id>http://swjian1997.github.io/2018/01/01/life20180101/</id>
+    <published>2018-01-01T15:24:00.000Z</published>
+    <updated>2018-01-04T15:21:21.057Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/2018/01/01/life20180101/sanlitun.webp"><a id="more"></a><p>到了北京真忙<br>我看人<br>人看我<br>几个转身就把白天磨成了夜</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/2018/01/01/life20180101/sanlitun.webp&quot;&gt;
+    
+    </summary>
     
     
-      <category term="生活" scheme="http://swjian1997.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
+      <category term="life" scheme="http://swjian1997.github.io/tags/life/"/>
     
   </entry>
   
