@@ -1984,7 +1984,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #16afcd;
+  background: #2977ff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3213,6 +3213,18 @@ span#yu-2 {
   background: rgba(0,0,0,0.1);
   margin-top: 20px;
   padding-left: 5px;
+}
+.headband {
+  height: 0px;
+}
+.post-footer {
+  display: none;
+}
+.post-title {
+  display: none;
+}
+.tag-cloud-title {
+  display: none;
 }
 @-moz-keyframes animate-yu-1 {
   0% {
