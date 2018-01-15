@@ -1984,7 +1984,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #c7ff26;
+  background: #73bbd0;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3208,7 +3208,7 @@ span#yu-2 {
   font-family: '楷体';
 }
 .menu {
-  max-width: 500px;
+  max-width: 560px;
   margin: 0px auto;
   background: rgba(0,0,0,0.1);
   margin-top: 20px;
@@ -3220,11 +3220,20 @@ span#yu-2 {
 .post-footer {
   display: none;
 }
-.post-title {
-  display: none;
+.post-title,
+.post-title-link {
+  font-family: '楷体';
+  font-size: 28px;
+  font-weight: bold;
 }
 .tag-cloud-title {
   display: none;
+}
+.post {
+  margin-top: 0px;
+}
+.sidebar {
+  display: block;
 }
 @-moz-keyframes animate-yu-1 {
   0% {
